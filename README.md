@@ -134,7 +134,7 @@ The output layer contains a **single neuron** because the task involves predicti
 
 ---
 
-## ⚙️ Model Training
+## Model Training
 
 The neural network is trained using:
 
@@ -148,7 +148,7 @@ During training, the model adjusts its weights to minimize the difference betwee
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 The ANN is evaluated using multiple regression metrics.
 
@@ -168,7 +168,7 @@ Using multiple metrics provides a more complete understanding of model performan
 
 ---
 
-## 💡 Key Learning
+## Key Learning
 
 This project demonstrates that Artificial Neural Networks are not limited to classification problems.
 
@@ -185,7 +185,7 @@ The project also highlights the importance of:
 
 ---
 
-## 💼 Practical Use Case
+## Practical Use Case
 
 A system like this could help students understand how different academic and profile factors relate to graduate admission outcomes.
 
@@ -195,7 +195,7 @@ For example, an applicant could provide their academic profile and receive an es
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 
@@ -217,7 +217,7 @@ For example, an applicant could provide their academic profile and receive an es
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 graduate-admission-prediction-using-ann/
@@ -231,7 +231,7 @@ graduate-admission-prediction-using-ann/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience with:
 
@@ -251,7 +251,7 @@ Through this project, I gained practical experience with:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential improvements include:
 
@@ -269,7 +269,7 @@ Potential improvements include:
 
 ---
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 This project demonstrates how an **Artificial Neural Network can be used to solve a real-world regression problem by learning relationships between academic/profile features and graduate admission probability**.
 
